@@ -1,0 +1,13 @@
+Task: Explore in Google and Make a document :
+
+1. What is Data Science? 
+2. Importance of statistics in Data Science?
+3. What is Data engineering?
+4.What is Data visualization?
+5. What is Data cleaning?
+6. What is python and why we use it?
+7. What is Data in statistics?
+8. What is statistcs?
+9. What is mathematics ?
+10. What is computer Science?
+11. What is programming language?
